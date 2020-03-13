@@ -1,0 +1,1 @@
+dbReader.o: ../dbReader.c
