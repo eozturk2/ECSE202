@@ -43,7 +43,7 @@ public class aBall extends Thread {
 	 * one of which is used for the actual calculations and the other giving the total flight time
 	 * for testing purposes.
 	 * <p>
-	 * Instance variables used by the run() method:
+	 * Variables used by the run() method:
 	 * 
 	 * g: gravitational acceleration
 	 * vx: initially equal to the horizontal component of 
